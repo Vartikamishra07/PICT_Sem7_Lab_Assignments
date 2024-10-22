@@ -1,1 +1,1 @@
-# PICT_Sem7_Lab_Assignemnts
+# PICT_Sem7_Lab_Assignements
